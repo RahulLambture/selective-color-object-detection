@@ -1,4 +1,4 @@
-# selective-color-object-detection
+# Selective-color-object-detection
 A MATLAB project that allows us to detect a specific coloured object
 
 # Introduction
