@@ -2,4 +2,4 @@
 A MATLAB project that allows us to detect a specific coloured object
 
 # Output  
-!(https://www.dropbox.com/scl/fi/uxnk8ijuwdxwekvi54kf5/DSP-Project-Image.jpg?rlkey=kdnxllclijinjfsgwf5tc279d&dl=0)
+!(https://previews.dropbox.com/p/thumb/AB-YaLLes1xq7Wwz1fpH9E3-cnYkzMni58Ssb7tjpTb2AdY3QCQ0yMTCJimE9sYzs2rt6qw6rzB1RdKC48GJdaIgRjoYAnSRy0xQy-k_w1YyA4aMNSPn97_HR4X2ZDjxcS3ChcRI9cn0tK4OPqkl3hdhUJ9GJsL9JH930cpiB0NC8lD0gSxTCvBNUiPnbSCzaG0X3fligePKz58MQG_aIX-ItvyfbFcviOT4kSgovjhM8UMPrZ3ES6AAHCYX_B93p7YzoY4IeXaN4oqzQlVVEhypTzy0mbDPbhyIaBWAfrFkdpAawl2vESnbwBeYKNUbo9NhMR93MeUh4B077MtoQvgm/p.jpeg)
