@@ -1,7 +1,7 @@
 # selective-color-object-detection
 A MATLAB project that allows us to detect a specific coloured object
 
-#Introductiom
+# Introduction
 In this project I am gonna take a live video feed from a camera and then will detect a specific color in that video feed. For this project you must have the image processing toolbox in your MATLAB.So, let's get started with Color Detection in MATLAB Live Video.
 
 
