@@ -2,4 +2,4 @@
 A MATLAB project that allows us to detect a specific coloured object
 
 # Output  
-!(DSP Project Image.jpg)
+!(main/DSP Project Image.jpg)
